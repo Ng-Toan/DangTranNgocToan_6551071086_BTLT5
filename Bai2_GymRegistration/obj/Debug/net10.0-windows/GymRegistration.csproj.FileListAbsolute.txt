@@ -1,0 +1,16 @@
+D:\C#\Buoi4'\DangTranNgocToan_65501071086_BTLT5\Bai2_GymRegistration\bin\Debug\net10.0-windows\GymRegistration.exe
+D:\C#\Buoi4'\DangTranNgocToan_65501071086_BTLT5\Bai2_GymRegistration\bin\Debug\net10.0-windows\GymRegistration.deps.json
+D:\C#\Buoi4'\DangTranNgocToan_65501071086_BTLT5\Bai2_GymRegistration\bin\Debug\net10.0-windows\GymRegistration.runtimeconfig.json
+D:\C#\Buoi4'\DangTranNgocToan_65501071086_BTLT5\Bai2_GymRegistration\bin\Debug\net10.0-windows\GymRegistration.dll
+D:\C#\Buoi4'\DangTranNgocToan_65501071086_BTLT5\Bai2_GymRegistration\bin\Debug\net10.0-windows\GymRegistration.pdb
+D:\C#\Buoi4'\DangTranNgocToan_65501071086_BTLT5\Bai2_GymRegistration\obj\Debug\net10.0-windows\GymRegistration.Form1.resources
+D:\C#\Buoi4'\DangTranNgocToan_65501071086_BTLT5\Bai2_GymRegistration\obj\Debug\net10.0-windows\GymRegistration.csproj.GenerateResource.cache
+D:\C#\Buoi4'\DangTranNgocToan_65501071086_BTLT5\Bai2_GymRegistration\obj\Debug\net10.0-windows\GymRegistration.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Buoi4'\DangTranNgocToan_65501071086_BTLT5\Bai2_GymRegistration\obj\Debug\net10.0-windows\GymRegistration.AssemblyInfoInputs.cache
+D:\C#\Buoi4'\DangTranNgocToan_65501071086_BTLT5\Bai2_GymRegistration\obj\Debug\net10.0-windows\GymRegistration.AssemblyInfo.cs
+D:\C#\Buoi4'\DangTranNgocToan_65501071086_BTLT5\Bai2_GymRegistration\obj\Debug\net10.0-windows\GymRegistration.csproj.CoreCompileInputs.cache
+D:\C#\Buoi4'\DangTranNgocToan_65501071086_BTLT5\Bai2_GymRegistration\obj\Debug\net10.0-windows\GymRegistration.dll
+D:\C#\Buoi4'\DangTranNgocToan_65501071086_BTLT5\Bai2_GymRegistration\obj\Debug\net10.0-windows\refint\GymRegistration.dll
+D:\C#\Buoi4'\DangTranNgocToan_65501071086_BTLT5\Bai2_GymRegistration\obj\Debug\net10.0-windows\GymRegistration.pdb
+D:\C#\Buoi4'\DangTranNgocToan_65501071086_BTLT5\Bai2_GymRegistration\obj\Debug\net10.0-windows\GymRegistration.genruntimeconfig.cache
+D:\C#\Buoi4'\DangTranNgocToan_65501071086_BTLT5\Bai2_GymRegistration\obj\Debug\net10.0-windows\ref\GymRegistration.dll
